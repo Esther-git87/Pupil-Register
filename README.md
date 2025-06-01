@@ -10,7 +10,7 @@ School administrators across 128 academies need clear visibility into student en
 
 ## Dataset Overview
 
-![]([https://github.com/Esther-git87/Pupil-Register/blob/main/register%20modelling.png](https://github.com/Esther-git87/Pupil-Register/blob/main/register%20data.png)
+![](https://github.com/Esther-git87/Pupil-Register/blob/main/register%20data.png)
 
 The dataset contains a school register of 7,539 pupils across 17 grades and 128 academies, including key details such as:
 Grade Name (e.g., Primary 1–7, Baby Class)
