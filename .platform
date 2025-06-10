@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "School_Register"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "dacb3ad2-d1bf-470a-9e2c-1242448fc47d"
+  }
+}
